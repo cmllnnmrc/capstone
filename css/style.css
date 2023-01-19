@@ -611,13 +611,13 @@ h6 {
 }
 
 .dashboard .student-card .card-icon {
-  margin-left: 20px;
+  margin-left: 22px;
   color: var(--black);
   background: var(--main-text-color);
 }
 
 .dashboard .faculty-card .card-icon {
-  margin-left: 20px;
+  margin-left: 22px;
   color: var(--black);
   background: #76ff7a;
 }
